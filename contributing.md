@@ -27,8 +27,8 @@ Create a YAML file in the appropriate category folder under `data/`:
 ```yaml
 name: Your Plugin Name
 repo: https://github.com/owner/repo-name
-description: Short description (max 100 chars, shown in summary)
-full_description: Longer description explaining what it does.
+tagline: Short punchy summary (max 120 chars, shown in collapsed view)
+description: Longer description explaining what it does and why it's useful.
 ```
 
 ### Step 4: Submit PR

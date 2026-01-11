@@ -56,12 +56,12 @@ function generateEntryHtml(entry) {
     summaryContent += ` <img src="${starBadge}" height="14"/>`;
   }
 
-  summaryContent += ` - <i>${entry.description}</i>`;
+summaryContent += ` - <i>${entry.tagline}</i>`;
   
   return `<details>
   <summary>${summaryContent}</summary>
   <blockquote>
-    ${entry.full_description}
+    ${entry.description}
     <br><br>
     <a href="${entry.repo}">${linkText}</a>
   </blockquote>

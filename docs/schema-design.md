@@ -254,8 +254,8 @@ The current awesome-opencode entries use a minimal schema focused on core metada
 ```yaml
 name: CodeGPT
 repo: https://github.com/company/codegpt
-description: AI-powered code completion and refactoring
-full_description: |
+tagline: AI-powered code completion and refactoring
+description: |
   CodeGPT provides intelligent code completion using GPT models.
   Features include:
   - Real-time suggestions
@@ -292,8 +292,8 @@ name: CodeGPT
 repo: https://github.com/company/codegpt
 type: plugin
 scope: [global, project]
-description: AI-powered code completion and refactoring
-full_description: |
+tagline: AI-powered code completion and refactoring
+description: |
   CodeGPT provides intelligent code completion using GPT models.
   Features include:
   - Real-time suggestions
@@ -419,7 +419,7 @@ name: CodeGPT
 repo: https://github.com/company/codegpt
 type: plugin
 scope: [global, project]
-description: AI-powered code completion
+tagline: AI-powered code completion
 ```
 
 **JSON Output (opencode.cafe format):**
@@ -430,7 +430,7 @@ description: AI-powered code completion
   "displayName": "CodeGPT",
   "repoUrl": "https://github.com/company/codegpt",
   "type": "plugin",
-  "description": "AI-powered code completion",
+  "tagline": "AI-powered code completion",
   "tags": [],
   "installation": ""
 }
@@ -523,7 +523,7 @@ name: My Extension
 repo: https://github.com/user/my-extension
 type: plugin
 scope: [global]
-description: A brief description
+tagline: A brief description
 ```
 
 ### Complete Entry (All Fields)
@@ -533,8 +533,8 @@ name: My Extension
 repo: https://github.com/user/my-extension
 type: plugin
 scope: [global, project]
-description: A brief description (≤100 chars)
-full_description: |
+tagline: A brief tagline (≤120 chars)
+description: |
   A longer description explaining
   the extension in detail.
 tags:

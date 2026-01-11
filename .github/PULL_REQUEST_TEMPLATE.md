@@ -10,7 +10,7 @@
 
 **Name:** 
 **Repository:** 
-**Description:** 
+**Tagline:** 
 
 ## Checklist
 
@@ -28,8 +28,8 @@ Create a file in `data/{category}/your-entry.yaml`:
 ```yaml
 name: Your Entry Name
 repo: https://github.com/owner/repo
-description: Short description (shown in summary)
-full_description: Longer description explaining what it does.
+tagline: Short punchy summary (shown in collapsed view)
+description: Longer description explaining what it does.
 ```
 
 See [contributing.md](contributing.md) for full instructions.
