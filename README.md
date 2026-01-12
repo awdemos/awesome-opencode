@@ -385,6 +385,159 @@
   </blockquote>
 </details>
 
+<details>
+  <summary><b>Plugin Template</b> <img src="https://badgen.net/github/stars/zenobi-us/opencode-plugin-template" height="14"/> - <i>CICD setup for plugins</i></summary>
+  <blockquote>
+    Focuses on providing the CICD setup with generator script, release please, bun publish, npm trusted publishing, and mise tasks.
+    <br><br>
+    <a href="https://github.com/zenobi-us/opencode-plugin-template">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Swarm Plugin</b> <img src="https://badgen.net/github/stars/joelhooks/opencode-swarm-plugin" height="14"/> - <i>Swarm intelligence</i></summary>
+  <blockquote>
+    Swarm plugin for opencode enabling swarm-based agent coordination.
+    <br><br>
+    <a href="https://github.com/joelhooks/opencode-swarm-plugin">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Antigravity Auth</b> <img src="https://badgen.net/github/stars/NoeFabris/opencode-antigravity-auth" height="14"/> - <i>Google Antigravity models</i></summary>
+  <blockquote>
+    Use Gemini and Anthropic models for free via Google Antigravity IDE authentication.
+    <br><br>
+    <a href="https://github.com/NoeFabris/opencode-antigravity-auth">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Antigravity Multi-Auth</b> <img src="https://badgen.net/github/stars/theblazehen/opencode-antigravity-multi-auth" height="14"/> - <i>Multiple Google accounts</i></summary>
+  <blockquote>
+    Fork of opencode-antigravity-auth that allows using multiple Google accounts with automatic rotation when rate limited.
+    <br><br>
+    <a href="https://github.com/theblazehen/opencode-antigravity-multi-auth">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>WakaTime</b> <img src="https://badgen.net/github/stars/angristan/opencode-wakatime" height="14"/> - <i>WakaTime integration</i></summary>
+  <blockquote>
+    WakaTime integration plugin for tracking coding activity in opencode sessions.
+    <br><br>
+    <a href="https://github.com/angristan/opencode-wakatime">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Optimal Model Temps</b> <img src="https://badgen.net/github/stars/Lyapsus/opencode-optimal-model-temps" height="14"/> - <i>Optimal sampling temperatures</i></summary>
+  <blockquote>
+    Minimal plugin that nudges specific models to their preferred sampling temperature.
+    <br><br>
+    <a href="https://github.com/Lyapsus/opencode-optimal-model-temps">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Simple Memory</b> <img src="https://badgen.net/github/stars/cnicolov/opencode-plugin-simple-memory" height="14"/> - <i>Git-based memory</i></summary>
+  <blockquote>
+    Simple plugin to manage memory inside a git repo that can be committed and reviewed by team members.
+    <br><br>
+    <a href="https://github.com/cnicolov/opencode-plugin-simple-memory">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Zellij Namer</b> <img src="https://badgen.net/github/stars/24601/opencode-zellij-namer" height="14"/> - <i>Auto-rename Zellij sessions</i></summary>
+  <blockquote>
+    Keeps your Zellij session name in sync with your work.
+    <br><br>
+    <a href="https://github.com/24601/opencode-zellij-namer">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Agent Memory</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-agent-memory" height="14"/> - <i>Letta-inspired memory</i></summary>
+  <blockquote>
+    Gives the agent persistent, self-editable memory blocks inspired by Letta agents.
+    <br><br>
+    <a href="https://github.com/joshuadavidthomas/opencode-agent-memory">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Agent Skills (JDT)</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-agent-skills" height="14"/> - <i>Dynamic skills loader</i></summary>
+  <blockquote>
+    Dynamic skills loader that discovers skills from project, user, and plugin directories.
+    <br><br>
+    <a href="https://github.com/joshuadavidthomas/opencode-agent-skills">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Beads Plugin</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-beads" height="14"/> - <i>Beads issue tracker integration</i></summary>
+  <blockquote>
+    Integration for Steve Yegge's beads issue tracker with /bd-* commands.
+    <br><br>
+    <a href="https://github.com/joshuadavidthomas/opencode-beads">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Handoff</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-handoff" height="14"/> - <i>Session handoff prompts</i></summary>
+  <blockquote>
+    Creates focused handoff prompts for continuing work in a new session.
+    <br><br>
+    <a href="https://github.com/joshuadavidthomas/opencode-handoff">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>UNMOJI</b> - <i>Strip emojis from output</i></summary>
+  <blockquote>
+    A simple plugin that strips ALL emojis from agent outputs in Opencode.
+    <br><br>
+    <a href="https://codeberg.org/bastiangx/opencode-unmoji">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Model Announcer</b> <img src="https://badgen.net/github/stars/ramarivera/opencode-model-announcer" height="14"/> - <i>Model self-awareness</i></summary>
+  <blockquote>
+    Automatically injects the current model name into the chat context so the LLM is self-aware.
+    <br><br>
+    <a href="https://github.com/ramarivera/opencode-model-announcer">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Froggy</b> <img src="https://badgen.net/github/stars/smartfrog/opencode-froggy" height="14"/> - <i>Hooks and specialized agents</i></summary>
+  <blockquote>
+    Plugin providing Claude Code-style hooks, specialized agents, and tools like gitingest.
+    <br><br>
+    <a href="https://github.com/smartfrog/opencode-froggy">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Devcontainers</b> <img src="https://badgen.net/github/stars/athal7/opencode-devcontainers" height="14"/> - <i>Multi-branch devcontainers</i></summary>
+  <blockquote>
+    Plugin for running multiple devcontainer instances with auto-assigned ports and branch-based isolation.
+    <br><br>
+    <a href="https://github.com/athal7/opencode-devcontainers">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Pilot</b> <img src="https://badgen.net/github/stars/athal7/opencode-pilot" height="14"/> - <i>Automation daemon</i></summary>
+  <blockquote>
+    Automation daemon that polls for work from GitHub issues and Linear tickets.
+    <br><br>
+    <a href="https://github.com/athal7/opencode-pilot">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
 <br>
 <a href="https://github.com/awesome-opencode/awesome-opencode/blob/main/contributing.md"><b>➕ Add a Plugin via PR</b></a>
 </details>
@@ -403,6 +556,15 @@
     Poimandres theme for opencode.
     <br><br>
     <a href="https://github.com/ajaxdude/opencode-ai-poimandres-theme">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Ayu Dark Theme</b> <img src="https://badgen.net/github/stars/postrednik/opencode-ayu-theme" height="14"/> - <i>Ayu Dark color scheme</i></summary>
+  <blockquote>
+    Port of the popular Ayu Dark color scheme with signature golden yellow accent and warm colors.
+    <br><br>
+    <a href="https://github.com/postrednik/opencode-ayu-theme">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -637,6 +799,24 @@
   </blockquote>
 </details>
 
+<details>
+  <summary><b>Cupcake</b> <img src="https://badgen.net/github/stars/eqtylab/cupcake" height="14"/> - <i>Policy enforcement layer</i></summary>
+  <blockquote>
+    A native policy-layer for AI coding agents built on OPA/Rego with native OpenCode plugin support.
+    <br><br>
+    <a href="https://github.com/eqtylab/cupcake">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenChamber</b> <img src="https://badgen.net/github/stars/btriapitsyn/openchamber" height="14"/> - <i>GUI for OpenCode</i></summary>
+  <blockquote>
+    A fan-made web and desktop interface for OpenCode with VS Code extension, multiple sessions, and git worktrees management.
+    <br><br>
+    <a href="https://github.com/btriapitsyn/openchamber">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
 <br>
 <a href="https://github.com/awesome-opencode/awesome-opencode/blob/main/contributing.md"><b>➕ Add a Project via PR</b></a>
 </details>
@@ -664,6 +844,15 @@
     How to output a debug log from opencode to a text file for troubleshooting.
     <br><br>
     <a href="https://github.com/awesome-opencode/awesome-opencode/discussions/19">🔗 <b>View Discussion</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Opencode Config Starter</b> <img src="https://badgen.net/github/stars/jjmartres/opencode" height="14"/> - <i>Flexible config starting point</i></summary>
+  <blockquote>
+    A powerful custom opencode configuration with agents, commands, rules, skills, and pre-configured MCP server.
+    <br><br>
+    <a href="https://github.com/jjmartres/opencode">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
