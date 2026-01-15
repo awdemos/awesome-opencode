@@ -9,9 +9,8 @@
 name: Example Plugin
 repo: https://github.com/example/opencode-example-plugin
 tagline: A brief description of what this plugin does (max 120 chars)
-description: |
-  A longer description explaining the plugin in detail.
-  Can be multiple lines and include:
+description: A longer description explaining the plugin in detail.
+  -Can be multiple lines and include
   - Feature highlights
   - Use cases
   - Key benefits
