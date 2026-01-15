@@ -620,6 +620,15 @@
 <br>
 
 <details>
+  <summary><b>Agent of Empires</b> <img src="https://badgen.net/github/stars/njbrake/agent-of-empires" height="14"/> - <i>Multi-session TUI for OpenCode</i></summary>
+  <blockquote>
+    A terminal UI for managing multiple OpenCode sessions in tmux with git worktree integration and Docker sandboxing.
+    <br><br>
+    <a href="https://github.com/njbrake/agent-of-empires">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Beads</b> <img src="https://badgen.net/github/stars/steveyegge/beads" height="14"/> - <i>Project task management</i></summary>
   <blockquote>
     Steve Yegge's project/task management system for agents (with beads_viewer UI).
