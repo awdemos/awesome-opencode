@@ -872,6 +872,15 @@
 </details>
 
 <details>
+  <summary><b>Universal LLM API Proxy</b> <img src="https://badgen.net/github/stars/Mirrowel/LLM-API-Key-Proxy" height="14"/> - <i>Universal multi-model proxy and library - made with Opencode community</i></summary>
+  <blockquote>
+    Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing. Works with any application that supports custom OpenAI/Anthropic base URLs—no code changes required in your existing tools. Best support for Antigravity/Gemini CLI out of the competition. Deploy anywhere. <a href='https://discord.com/channels/1391832426048651334/1449788759917858959'>Opencode Discord discussion</a>
+    <br><br>
+    <a href="https://github.com/Mirrowel/LLM-API-Key-Proxy">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Vibe Kanban</b> <img src="https://badgen.net/github/stars/BloopAI/vibe-kanban" height="14"/> - <i>Manage AI in parallel</i></summary>
   <blockquote>
     A Kanban board to manage and orchestrate AI coding agents in parallel.

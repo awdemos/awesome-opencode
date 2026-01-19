@@ -36,6 +36,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-redstone",
+    "type": "agents",
+    "displayName": "Redstone",
+    "repoUrl": "https://github.com/BackGwa/Redstone",
+    "tagline": "AI-built Minecraft plugins",
+    "description": "an Opencode agent that simplifies Minecraft plugin development and deployment.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "agent-memory",
     "type": "plugins",
     "displayName": "Agent Memory",
@@ -919,6 +931,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-session",
+    "type": "projects",
+    "displayName": "Opencode Session Manager",
+    "repoUrl": "https://github.com/GNITOAHC/opencode-session",
+    "tagline": "Session viewer & manager",
+    "description": "View & Manage sessions for opencode, also detect orphan sessions for deletion",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-sessions",
     "type": "projects",
     "displayName": "Opencode Sessions",
@@ -1007,6 +1031,27 @@
       "global"
     ],
     "tags": []
+  },
+  {
+    "productId": "universal-llm-proxy",
+    "type": "projects",
+    "displayName": "Universal LLM API Proxy",
+    "repoUrl": "https://github.com/Mirrowel/LLM-API-Key-Proxy",
+    "tagline": "Universal multi-model proxy and library - made with Opencode community",
+    "description": "Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing. Works with any application that supports custom OpenAI/Anthropic base URLs—no code changes required in your existing tools. Best support for Antigravity/Gemini CLI out of the competition. Deploy anywhere. <a href='https://discord.com/channels/1391832426048651334/1449788759917858959'>Opencode Discord discussion</a>",
+    "scope": [
+      "global"
+    ],
+    "tags": [
+      "desktop",
+      "application",
+      "hosted",
+      "library",
+      "api",
+      "proxy",
+      "gateway",
+      "community"
+    ]
   },
   {
     "productId": "vibe-kanban",
