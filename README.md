@@ -773,6 +773,15 @@
 </details>
 
 <details>
+  <summary><b>Open Dispatch</b> <img src="https://badgen.net/github/stars/bobum/open-dispatch" height="14"/> - <i>Control OpenCode from Slack or Microsoft Teams</i></summary>
+  <blockquote>
+    Bridge app connecting chat platforms (Slack/Teams) to AI coding assistants. Start sessions on desktop, guide them from your phone. Supports 75+ AI providers via OpenCode integration with session persistence and smart message routing.
+    <br><br>
+    <a href="https://github.com/bobum/open-dispatch">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>OpenChamber</b> <img src="https://badgen.net/github/stars/btriapitsyn/openchamber" height="14"/> - <i>GUI for OpenCode</i></summary>
   <blockquote>
     A fan-made web and desktop interface for OpenCode with VS Code extension, multiple sessions, and git worktrees management.
